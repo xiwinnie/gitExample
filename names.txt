@@ -1,3 +1,3 @@
-role,ywu677,Wu,Yuman
+role,NetID,LastName,FirstName
 boss,ywu677,Wu,Yuman
 
